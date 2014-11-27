@@ -1,0 +1,23 @@
+Prueba de tiempo Davis Putnam vs DPLL
+Con el la misma entrada
+Ejecutar 5 veces, y calcular promedio:
+
+Davis Putnam:
+7 ms
+8 ms
+7 ms
+18 ms
+5 ms
+
+Promedio: 9 ms 
+
+DPLL:
+13 ms
+4 ms
+4 ms
+11 ms
+3 ms
+
+Promedio: 7 ms
+
+Conclision: DPLL fue más rápido
